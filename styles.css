@@ -66,7 +66,7 @@
   background-image: url("image/Arduino-Home-Automation-1.JPG");
   background-size: cover;
   font-family: 'Playfair Display', serif;
-  height: 300px;
+  height: 350px;
   width: 500px;
   margin: auto 40% auto 25%;
   border: 3px solid;
@@ -84,9 +84,9 @@
   background-image: url("image/download-iot.JPG");
   background-size: cover;
   font-family: 'Playfair Display', serif;
-  height: 300px;
+  height: 350px;
   width: 500px;
-  margin: auto 50% auto 50%;
+  margin: auto 40% auto 25%;
   border: 3px solid;
   letter-spacing: 2px;
 
