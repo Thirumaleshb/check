@@ -63,17 +63,16 @@
 }
 
 .home {
-  position:absolute;
   background-image: url("image/Arduino-Home-Automation-1.JPG");
   background-size: cover;
   font-family: 'Playfair Display', serif;
   height: 350px;
   width: 500px;
-  margin: auto 40% auto 25%;
+  
   border: 3px solid;
   letter-spacing: 2px;
-  margin-right:35px;
-  left:20px;
+  margin-left:35%;
+  
 
 
 
@@ -90,11 +89,11 @@
   font-family: 'Playfair Display', serif;
   height: 350px;
   width: 500px;
-  margin: auto 40% auto 25%;
+  
   border: 3px solid;
   letter-spacing: 2px;
-  margin-right:35px;
-  left:20px;
+  margin-left:35%;
+  margin-top:3px;
 
 
 }
